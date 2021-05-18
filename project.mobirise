@@ -1,0 +1,70 @@
+{
+  "settings": {
+    "name": "Testovaj",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise5",
+      "title": "Mobirise 5",
+      "styling": {
+        "primaryColor": "#6592e6",
+        "secondaryColor": "#ff6666",
+        "successColor": "#40b0bf",
+        "infoColor": "#47b5ed",
+        "warningColor": "#FFE161",
+        "dangerColor": "#ff9966",
+        "mainFont": "Jost",
+        "display1Font": "Jost",
+        "display1Size": 4.6,
+        "display2Font": "Jost",
+        "display2Size": 3,
+        "display5Font": "Jost",
+        "display5Size": 2,
+        "display7Font": "Jost",
+        "display7Size": 1.2,
+        "display4Font": "Jost",
+        "display4Size": 1.1,
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": false,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.3.5",
+    "siteFonts": [
+      {
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
+    "favicon": "@PROJECT_PATH@/assets/images/2vf5v1.jpg",
+    "google-analytics": "\n<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n<html>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<title>Praktyk</title>\n</head>\n<body style=\"margin:0px; padding: 0px;\">\n<iframe src=\"https://infocursy.ru/transkribator\" frameborder=\"0\" scrolling=\"yes\" height=\"1200px\" width=\"100%\"></iframe>\n</body>\n</html>",
+    "imageResize": true,
+    "mbrsiteDomain": "glj0kid4ar",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "cookiesAlert": false,
+    "gdpr": false,
+    "uniqCompNum": 0,
+    "versionPublish": "5.3.5",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "120",
+        "meta_descr": "Praktik",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
